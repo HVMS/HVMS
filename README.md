@@ -1,4 +1,3 @@
-![logo](supun-new.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Viral Siddhapura</h1>
@@ -63,8 +62,15 @@
 
 - Backend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,flask,express,expressjs,bunjs" />
+  <a href="https://devicon.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height='48' width='48'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='48' width='48' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='48' width='48'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='48' width='48' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='48' width='48'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height='48' width='48' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height='48' width='48' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height='48' width='48' />
   </a>
 </p>
 
@@ -105,9 +111,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HVMS&theme=midnight-purple)](https://git.io/streak-stats)
 
-</div>
-
+![Viral' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HVMS&layout=compact&theme=vision-friendly-dark)
 <br><br>
+
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -121,4 +128,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Viral Siddhapura</a></p>
+<p align="right" > Created with 🧡 by <a href="https://portfolio-orpin-eight-35.vercel.app/">Viral Siddhapura</a></p>
