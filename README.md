@@ -44,9 +44,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/viral-siddhapura-a5042714a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viralsiddhapuralinkedin" height="30" width="30" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viral.siddhapurra@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="viralsiddhapura" height="60" width="60" /></a>
-<a href="https://www.instagram.com/viru_1116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viralsiddhapurainstagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viral-siddhapura-a5042714a/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="viralsiddhapuralinkedin" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viral.siddhapurra@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="viralsiddhapura" height="30" width="40" /></a>
+<a href="https://www.instagram.com/viru_1116/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="viralsiddhapurainstagram" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viralsiddhapura" height="30" width="40" /></a> -->
 </p>
 <br>
