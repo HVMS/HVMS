@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Viral Siddhapura</h1>
-<h3 align="center">A passionate Full Stack Software Developer | <a href="https://portfolio-orpin-eight-35.vercel.app/" target"blank">Visit My Portfolio</a></h3>
+<h3 align="center">A passionate Full Stack Software Developer | <a href="https://portfolio-orpin-eight-35.vercel.app/" target="_blank">Visit My Portfolio</a></h3>
 <p align="center"> Eager to learn new technology 🌐 and leveraging them to build cool stuffs 💻 Keeping updated myself about upcoming next generation frameworks and libraries 🛠️</p>
 
 <div align="center">
@@ -44,10 +44,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/viral-siddhapura-a5042714a/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="viralsiddhapuralinkedin" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viral.siddhapurra@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="viralsiddhapura" height="30" width="40" /></a>
-<a href="https://www.instagram.com/viru_1116/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="viralsiddhapurainstagram" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viralsiddhapura" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/viral-siddhapura-a5042714a/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="viralsiddhapuralinkedin" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viral.siddhapurra@gmail.com" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="viralsiddhapura" height="30" width="40" /></a>
+<a href="https://www.instagram.com/viru_1116/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="viralsiddhapurainstagram" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -116,4 +115,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://portfolio-orpin-eight-35.vercel.app/">Viral Siddhapura</a></p>
+<p align="right" > Created with 🧡 by <a href="https://portfolio-orpin-eight-35.vercel.app/" target="_blank">Viral Siddhapura</a></p>
