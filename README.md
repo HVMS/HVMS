@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Viral Siddhapura</h1>
-<h3 align="center">A passionate Full Stack Software Developer | <a href="https://portfolio-orpin-eight-35.vercel.app/" target="_blank">Visit My Portfolio</a></h3>
+<h3 align="center">A Passionate Full Stack Developer | <a href="https://portfolio-orpin-eight-35.vercel.app/" target="_blank">Visit My Portfolio</a></h3>
 <p align="center"> Eager to learn new technology 🌐 and leveraging them to build cool stuffs 💻 Keeping updated myself about upcoming next generation frameworks and libraries 🛠️</p>
 
 <div align="center">
